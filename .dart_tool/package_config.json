@@ -62,6 +62,12 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "get",
+      "rootUri": "file:///C:/Users/Thoun%20Channith/AppData/Local/Pub/Cache/hosted/pub.dev/get-4.6.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "leak_tracker",
       "rootUri": "file:///C:/Users/Thoun%20Channith/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.4",
       "packageUri": "lib/",
@@ -170,7 +176,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-06-10T13:17:32.612350Z",
+  "generated": "2024-06-10T13:23:57.331925Z",
   "generator": "pub",
   "generatorVersion": "3.4.0",
   "flutterRoot": "file:///C:/src/flutter",
